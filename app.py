@@ -5,7 +5,7 @@ from typing import List, Dict, Optional
 import html
 
 # ========== CONFIG ==========
-BASE_URL =  "mindscribe-backend-production-f115.up.railway.app"
+BASE_URL =  "mindscribe-backend-production-1d32.up.railway.app"
 # ========== STYLES ==========
 st.set_page_config(page_title="MindScribe — Journal", layout="wide")
 st.markdown(
