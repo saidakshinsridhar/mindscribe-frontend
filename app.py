@@ -5,7 +5,7 @@ from typing import List, Dict, Optional
 import html
 
 # ========== CONFIG ==========
-BASE_URL = "http://localhost:8080/journals"  # <-- your backend base URL
+BASE_URL = "https://mindscribe-backend-production-f115.up.railway.app/" # <-- your backend base URL
 
 # ========== STYLES ==========
 st.set_page_config(page_title="MindScribe — Journal", layout="wide")
